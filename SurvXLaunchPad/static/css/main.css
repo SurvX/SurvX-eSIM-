@@ -1,0 +1,92 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-decoration: white;
+    color:white;
+}
+.texte1{
+    text-decoration:white;
+}
+footer{
+    text-decoration: white;
+}
+a{
+    text-decoration-color:black;
+}
+a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+}
+footer{
+    height: 340px;
+    width: 100%;
+    color:white;
+    padding: 0 100px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.navbar-custom{
+    color:black;
+}
+
+
+.product{
+    border-radius: 0 0 4px 4px;
+}
+
+.thumbnail{
+    width:100%;
+    height: 500px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.gamme{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.welcome{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    text-align: justify;
+}
+.welcomee{
+    font-size: 34px;
+}
+
+
+.box-element{
+    box-shadow: hsl(0, 0%, 80%) 0 0 16px;
+    border-radius: 4px;
+    padding: 10px;
+}
+.cart-row{
+    display: flex;
+    align-items: flex-stretch;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ececec;
+}
+.row-image{
+    width:100px;
+}
+.quantity{
+    display:inline-block;
+    font-weight:700;
+    padding-right: 10px;
+}
+.chg-quantity{
+    width: 12px;
+    cursor: pointer;
+    display: block;
+    margin-top: 5px;
+    transition: 1s;
+}
+.gamme{
+    padding-top: 25px;
+}
+
+#cart-icon{
+    width: 95px;
+    height: 70px;
+}

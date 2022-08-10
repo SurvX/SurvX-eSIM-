@@ -1,0 +1,12 @@
+asgiref
+autopep8
+django-cors-headers
+djangorestframework
+Pillow==8.3.2
+pycodestyle==2.7.0
+pytz
+sqlparse
+toml==0.10.2
+typing-extensions
+django-crispy-forms
+Django

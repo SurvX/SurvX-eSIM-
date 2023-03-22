@@ -8,7 +8,7 @@
 
 * React
 * D3
-* CCXT Cryptocurrency Exchange Trading Library
+* CCXT Exchange Trading Library
 ### Visual Demo of prototypes
 
 
@@ -28,6 +28,6 @@
 
 ### Upcoming Features (Stay Tuned)
 1) Personalized watchlists. 
-2) Up-to-date news about cryptos in the global market.
-3) Chat Rooms. Discuss amongst friends or enemies(?)
-4) Link Exchange funds.
+2) Up-to-date news in the global market.
+3) Live chat support.
+4) Impliment platform Governance.

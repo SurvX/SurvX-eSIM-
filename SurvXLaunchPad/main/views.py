@@ -21,16 +21,16 @@ def portfolio(request):
     context={}
     return render(request, 'main/portfolio.html', context)
 
-def launchedprojects(request):
+def products(request):
     context={}
-    return render(request, 'main/launchedprojects.html', context)
+    return render(request, 'main/products.html', context)
 
-def launchnewprojects(request):
+def daoproposals(request):
     context={}
-    return render(request, 'main/launchnewprojects.html', context)
-def upcomingprojects(request):
+    return render(request, 'main/daoproposals.html', context)
+def marketplace(request):
     context={}
-    return render(request, 'main/upcomingprojects.html', context)
+    return render(request, 'main/marketplace.html', context)
 def aboutus(request):
     context={}
     return render(request, 'main/aboutus.html', context)
